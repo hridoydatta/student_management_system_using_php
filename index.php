@@ -10,7 +10,8 @@
   <body>
     <div class="container">
     	<br>
-    	<a class="btn btn-primary login_admin" href="Admin/login.php">Login</a>
+    	<a class="btn btn-primary login_admin" href="Admin/registration.php">Registration</a>
+    	<a class="btn btn-primary login_admin mx-3" href="Admin/login.php">Login</a>
     	<br><br>
     	<h2 class="text-center">Welcome to Student Management System</h2>
     	<br>
